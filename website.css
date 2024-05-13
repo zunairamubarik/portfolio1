@@ -1,0 +1,453 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.flexcontainer{
+       display: flex; 
+
+}
+.homebg{
+    position: relative;
+    /* background-color: black; */
+        /* background-image: linear-gradient(rgb(0, 0, 0), rgb(219, 219, 212)); */
+
+}
+.logo{
+    color: white;
+    font-family: cambria;
+    position: absolute;
+    margin-top: 40px;
+    left: 100px;
+}
+.home{
+    position: absolute;
+    color: white;
+    right: 530px;
+    font-family: cambria;
+    margin-top: 40px;
+}
+.about{
+    position: absolute;
+    color: white;
+    right: 450px;
+    font-family: cambria;
+    margin-top: 40px;
+}
+.services{
+    position: absolute;
+    color: white;
+    right: 355px;
+    font-family: cambria;
+    margin-top: 40px;
+}
+.works{
+    position: absolute;
+    color: white;
+    right: 270px;
+    font-family: cambria;
+    margin-top: 40px;
+}
+.blog{
+    position: absolute;
+    color: white;
+    right: 200px;
+    font-family: cambria;
+    margin-top: 40px;
+}
+.contact{
+    position: absolute;
+    color: white;
+    right: 100px;
+    font-family: cambria;
+    margin-top: 40px;
+}
+.main{
+    position: relative;
+}
+.name{
+    color: white;
+    font-family: cambria;
+    position: absolute;
+    margin-top: 200px;
+    left: 100px;
+    font-size: 80px;
+}
+.para{
+    color: white;
+    font-family: cambria;
+    position: absolute;
+    margin-top: 420px;
+    left: 110px;
+}
+.flexcontainer1{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+}
+.aboutimg{
+    position: absolute;
+    margin: 60px;
+   
+}
+.abouttext{
+   position: absolute;
+   font-family: cambria;
+   left: 500px;
+   margin-top: 70px;
+}
+.desc{
+    position: absolute;
+    font-family: cambria;
+    left: 500px;
+    margin-top: 130px;
+}
+.about1{
+    position: absolute;
+    font-family: cambria;
+    left: 500px;
+    margin-top: 170px;
+}
+.icon1{
+    position: absolute;
+    font-family: cambria;
+    left: 510px;
+    margin-top: 350px;
+}
+.icon2{
+    position: absolute;
+    font-family: cambria;
+    left: 540px;
+    margin-top: 350px;
+}
+.icon3{
+    position: absolute;
+    font-family: cambria;
+    left: 570px;
+    margin-top: 350px;
+}
+.icon4{
+    position: absolute;
+    font-family: cambria;
+    left: 600px;
+    margin-top: 350px;
+}
+.icon5{
+    position: absolute;
+    font-family: cambria;
+    left: 630px;
+    margin-top: 350px;
+}
+.button1{
+    position: absolute;
+    font-family: cambria;
+    left: 500px;
+    margin-top: 400px;
+    background-color: rgb(48, 35, 35);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.flexcontainer2{
+    background-color: rgb(238, 233, 233);
+    height: 700px;
+    width: 100%;
+}
+.nservice{
+    position: absolute;
+    font-family: cambria;
+    left: 600px;
+    margin-top: 70px;
+}
+.tservice{
+    position: absolute;
+    font-family: cambria;
+    left: 550px;
+    margin-top: 100px;
+}
+.slogo1{
+    position:absolute;
+    left: 200px;
+    margin-top: 200px;
+    border: 1px solid rgb(121, 108, 108);
+    padding: 18px;
+    border-radius: 100px;
+}
+.stext1{
+    position: absolute;
+    margin-top: 290px;
+    left: 170px;
+    font-family: cambria;
+}
+.spara1{
+    position: absolute;
+    margin-top: 330px;
+    left: 100px;
+    font-family: cambria;
+    color: rgb(63, 62, 62);
+}
+.slogo2{
+    position:absolute;
+    left: 620px;
+    margin-top: 200px;
+    border: 1px solid rgb(121, 108, 108);
+    padding: 18px;
+    border-radius: 100px;
+}
+.stext2{
+    position: absolute;
+    margin-top: 290px;
+    left: 560px;
+    font-family: cambria;
+}
+.spara2{
+    position: absolute;
+    margin-top: 330px;
+    left: 520px;
+    font-family: cambria;
+    color: rgb(63, 62, 62);
+}
+.slogo3{
+    position:absolute;
+   right: 200px;
+    margin-top: 200px;
+    border: 1px solid rgb(121, 108, 108);
+    padding: 18px;
+    border-radius: 100px;
+}
+.stext3{
+    position: absolute;
+    margin-top: 290px;
+    right:135px;
+    font-family: cambria;
+}
+.spara3{
+    position: absolute;
+    margin-top: 330px;
+   right:35px;
+    font-family: cambria;
+    color: rgb(63, 62, 62);
+}
+.slogo4{
+    position:absolute;
+    left: 200px;
+    margin-top: 450px;
+    border: 1px solid rgb(121, 108, 108);
+    padding: 18px;
+    border-radius: 100px;
+}
+.stext4{
+    position: absolute;
+    margin-top: 540px;
+    left: 150px;
+    font-family: cambria;
+}
+.spara4{
+    position: absolute;
+    margin-top: 580px;
+    left: 100px;
+    font-family: cambria;
+    color: rgb(63, 62, 62);
+}
+.slogo5{
+    position:absolute;
+    left: 620px;
+    margin-top: 450px;
+    border: 1px solid rgb(121, 108, 108);
+    padding: 18px;
+    border-radius: 100px;
+}
+.stext5{
+    position: absolute;
+    margin-top: 540px;
+    left: 580px;
+    font-family: cambria;
+}
+.spara5{
+    position: absolute;
+    margin-top: 580px;
+    left: 530px;
+    font-family: cambria;
+    color: rgb(63, 62, 62);
+}
+.slogo6{
+    position:absolute;
+    right: 190px;
+    margin-top: 450px;
+    border: 1px solid rgb(121, 108, 108);
+    padding: 18px;
+    border-radius: 100px;
+}
+.stext6{
+    position: absolute;
+    margin-top: 540px;
+    right:180px;
+    font-family: cambria;
+}
+.spara6{
+    position: absolute;
+    margin-top: 580px;
+    right:20px;
+    font-family: cambria;
+    color: rgb(63, 62, 62);
+}
+.flexcontainer3{
+    height: 300px;
+    width: 100%;
+    background-image: url(home1.jpg);
+    background-position: 20px;
+    /* opacity: 0.8; */
+}
+.logocust{
+    position: absolute;
+    left: 200px;
+    margin-top: 100px;
+    border: 2px solid white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.text1{
+    position: absolute;
+    left: 190px;
+    margin-top: 150px;
+    font-size: 40px;
+    color: white;
+    font-family: cambria;
+}
+.text2{
+    position: absolute;
+    left: 173px;
+    margin-top: 200px;
+    color: white;
+    font-family: cambria;
+}
+.like{
+    position: absolute;
+    left: 500px;
+    margin-top: 100px;
+    border: 2px solid white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.text3{
+    position: absolute;
+    left: 490px;
+    margin-top: 150px;
+    font-size: 40px;
+    color: white;
+    font-family: cambria;
+}
+.text4{
+    position: absolute;
+    left: 450px;
+    margin-top: 200px;
+    color: white;
+    font-family: cambria;
+}
+.pencil{
+    position: absolute;
+    left: 750px;
+    margin-top: 100px;
+    border: 2px solid white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.text5{
+    position: absolute;
+    left: 730px;
+    margin-top: 150px;
+    font-size: 40px;
+    color: white;
+    font-family: cambria;
+}
+.text6{
+    position: absolute;
+    left: 730px;
+    margin-top: 200px;
+    color: white;
+    font-family: cambria;
+}
+.trophy{
+    position: absolute;
+    left: 1000px;
+    margin-top: 100px;
+    border: 2px solid white;
+    border-radius: 100px;
+    padding: 10px;
+}
+.text7{
+    position: absolute;
+    left: 990px;
+    margin-top: 150px;
+    font-size: 40px;
+    color: white;
+    font-family: cambria;
+}
+.text8{
+    position: absolute;
+    left: 960px;
+    margin-top: 200px;
+    color: white;
+    font-family: cambria;
+}
+.flexcontainer4{
+    height: 700px;
+    width: 100%;
+}
+.portfolio{
+    position: absolute;
+    font-family: cambria;
+    left: 600px;
+    margin-top: 70px;
+}
+.ptext{
+    position: absolute;
+    font-family: cambria;
+    left: 530px;
+    margin-top: 100px;
+}
+.pdesc{
+    position: absolute;
+    font-family: cambria;
+    left: 490px;
+    margin-top: 150px;
+}
+.img1{
+    position: absolute;
+    margin-top: 220px;
+    left: 150px;
+}
+.img2{
+    position: absolute;
+    margin-top: 220px;
+    left: 500px;
+}
+.img3{
+    position: absolute;
+    margin-top: 220px;
+   right: 150px;
+}
+.img4{
+    position: absolute;
+    margin-top: 500px;
+    left: 150px;
+}
+.img5{
+    position: absolute;
+    margin-top: 500px;
+    left: 500px;
+}
+.img6{
+    position: absolute;
+    margin-top: 500px;
+   right: 150px;
+ 
+}
+
+
+
+
+
+
+
